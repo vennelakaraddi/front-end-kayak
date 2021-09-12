@@ -2,3 +2,10 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+.Logo {
+  margin-left: 15 px;
+  margin-top: 19 px;
+  margin-bottom: 19 px;
+  background: #ffffff;
+}
